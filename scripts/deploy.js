@@ -20,4 +20,6 @@ main()
 
   // To indicate Hardhat to connect to a specific Ethereum network when running any tasks, you can use the --network parameter. Like this:
 
-  //npx hardhat run scripts/deploy.js --network <network-name>
+  //npx hardhat run scripts/deploy.js --network <network-name>\
+
+console.log("hello");
